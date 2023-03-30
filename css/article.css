@@ -1,0 +1,32 @@
+.article {
+    max-width: 1000px;
+}
+
+.article__title {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    vertical-align: middle;
+    color: cornflowerblue;
+    font-weight: lighter;
+}
+
+.article__paragraph {
+    line-height: 1.5;
+}
+
+.article__elements {
+    display: inline-block;
+}
+
+.article__picture {
+    display: flex;
+    justify-content: center;
+}
+
+.article__fly {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 90%;
+}

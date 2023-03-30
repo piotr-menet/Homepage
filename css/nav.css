@@ -1,0 +1,35 @@
+.navigation {
+    margin-bottom: 70px;
+    border-bottom: 1px solid rgb(67, 90, 155);
+}
+
+.navigation__listItem {
+    list-style: none;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+.navigation__link {
+    color: cornflowerblue;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.navigation__link:visited {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.navigation__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+    color: blue;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.navigation__link:active {
+    color: rgb(37, 33, 33);
+}

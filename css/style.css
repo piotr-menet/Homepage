@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.js__body {
+    font-family: "Montserrat", sans-serif;
+    max-width: 1000px;
+    margin: auto;
+    color: #333;
+}
+
+.js__body--dark {
+    background-color: #2e2b2b;
+    color: #83a4d6;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    vertical-align: middle;
+    font-size: small;
+}

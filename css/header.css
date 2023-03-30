@@ -1,0 +1,22 @@
+.header__title {
+    text-align: center;
+    color: cornflowerblue;
+    border-width: 20px solid #ccc;
+    border-style: inset;
+    padding: 15px;
+    text-align: center;
+    vertical-align: middle;
+    background: #dbd9e2;
+    border-radius: 70%;
+    text-shadow: #49a3b3 1px 0 10px;
+}
+
+.header__toogle {
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+.js__button {
+    background: cornflowerblue;
+    padding: 3px;
+}
