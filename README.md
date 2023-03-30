@@ -1,11 +1,20 @@
-# Piotr Menet - Moja Pierwsza Stronka 
+# Piotr Menet - My first Website
 
 ## Demo
 
-[link do stronki](https://piotr-menet.github.io/MyFirstPage/)
+[My Website](https://piotr-menet.github.io/MyFirstPage/)
 
-## Opis
+## Description
 
-## Witaj na stronie internetowej poświęconej polskim jeziorom! Zastosowałem pare technik tworzenia stron internetowych, aby zapewnić Ci jak najlepsze wrażenia z korzystania z mojej witryny. Przede wszystkim postawilem na prostotę i przejrzystość, dzięki czemu łatwo znajdziesz interesujące Cię informacje. Moja strona jest również w pełni responsywna, co oznacza, że dostosowuje się do różnych rozmiarów ekranów, co umożliwia wygodne korzystanie z niej zarówno na komputerach, tabletach, jak i smartfonach.
+## Welcome to the website dedicated to Polish lakes! I have implemented a few web development techniques to ensure the best user experience possible. First and foremost, I focused on simplicity and clarity, making it easy for you to find the information you're interested in. My website is also fully responsive, meaning it adapts to various screen sizes, allowing for comfortable use on computers, tablets, and smartphones.
 
-![Jezioro](https://i.postimg.cc/Bnpc2n1T/wloclawek.jpg)
+![Lake](https://i.postimg.cc/Bnpc2n1T/wloclawek.jpg)
+
+To develop this Webpage I used combination of below:
+- HTML
+- Java Script
+- CSS
+- BEM convention
+- Normalize
+- GIT
+- Markdown
