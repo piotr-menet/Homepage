@@ -2,7 +2,7 @@
 
 ## Demo
 
-[My Website](https://piotr-menet.github.io/MyFirstPage/)
+[My Website](https://piotr-menet.github.io/Homepage/)
 
 ## Description
 
