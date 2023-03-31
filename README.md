@@ -2,7 +2,7 @@
 
 ## Demo
 
-[My Website](https://piotr-menet.github.io/Homepage/) {:target="_blank" rel="noopener"}
+[My Website](https://piotr-menet.github.io/Homepage/)
 
 ## Description
 
