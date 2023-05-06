@@ -1,5 +1,5 @@
 
-
+{
 function getElements() {
     const button = document.querySelector(".js__button");
     const body = document.querySelector(".js__body");
@@ -30,4 +30,4 @@ function getElements() {
   }
   
   init();
-  
+}
