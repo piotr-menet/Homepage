@@ -1,20 +1,4 @@
 
-// const button = document.querySelector(".js__button");
-// const body = document.querySelector(".js__body");
-
-
-
-
-// button.addEventListener("click", () => {
-//     body.classList.toggle("js__body--dark");
-
-//     if (body.classList.contains("js__bodyDark")) {
-//         button.innerText = "Wlacz jasny motyw";
-//     } else {
-//         button.innerText = "Wlacz ciemny motyw";
-//     }
-// });
-
 
 function getElements() {
     const button = document.querySelector(".js__button");
