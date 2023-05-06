@@ -11,12 +11,11 @@ function getElements() {
   }
   
   function updateButtonText(body, button) {
-    if (body.classList.contains("js__body--dark")) {
-      button.innerText = "Wlacz jasny motyw";
-    } else {
-      button.innerText = "Wlacz ciemny motyw";
-    }
+    button.innerText = body.classList.contains("js__body--dark")
+      ? "Wlacz jasny motyw"
+      : "Wlacz ciemny motyw";
   }
+  
   
   function addButtonEventListener(button, body) {
     button.addEventListener("click", () => {
